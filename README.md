@@ -1,2 +1,2 @@
-# PRO-C26-Reference
-reference code for c26
+# PRO-C27-SA
+Boilerplate code for c27 SA
